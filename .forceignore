@@ -1,12 +1,16 @@
 # List files or directories below to ignore them when running force:source:push, force:source:pull, and force:source:status
 # More information: https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_exclude_source.htm
-
+#Remote chag #1
 package.xml
 
 # LWC configuration files
 **/jsconfig.json
 **/.eslintrc.json
 #Remote chag #2
+<<<<<<< HEAD
+=======
+#Remote chag #3
+>>>>>>> 678ea9dd6007743372e9dc2ea60e57d06364d67e
 
 # LWC Jest
 **/__tests__/**
