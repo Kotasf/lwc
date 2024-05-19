@@ -6,6 +6,7 @@ package.xml
 # LWC configuration files
 **/jsconfig.json
 **/.eslintrc.json
+#Remote chag #2
 
 # LWC Jest
 **/__tests__/**
